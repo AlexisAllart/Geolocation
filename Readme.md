@@ -1,0 +1,1 @@
+Only works on live server (CORS Errors) - works fine with VSCode Live Server
